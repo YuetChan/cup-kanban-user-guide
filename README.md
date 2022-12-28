@@ -1,6 +1,6 @@
-# Cup Kanban
+# Simple Kanban
 
-Cup Kanban is a self hosted alternative to Kanban Board.
+Simple Kanban is a self hosted alternative to Kanban Board.
 
 ## Features
 * Social media sign in
